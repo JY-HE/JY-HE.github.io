@@ -1,0 +1,23 @@
+# path/to/project/root/.eslintignore
+# /node_modules/* and /bower_components/* in the project root are ignored by default
+
+# Ignore built files except build/index.js
+dist/*
+node_modules/*
+public/*
+.vscode/*
+*.sh
+*.md
+*.woff
+*.ttf
+.idea
+/docs
+.husky
+.local
+/bin
+.eslintrc.js
+prettier.config.js
+/src/mock/*
+
+# !build/index.js
+webpack.config.js
