@@ -1,0 +1,259 @@
+{
+    "models": [
+        {
+            "title": "热门",
+            "nav": [
+                {
+                    "name": "掘金",
+                    "url": "https://juejin.cn/",
+                    "iconUrl": "https://lf3-cdn-tos.bytescm.com/obj/static/xitu_juejin_web//static/favicons/favicon-32x32.png"
+                },
+                {
+                    "name": "知乎",
+                    "url": "https://www.zhihu.com/",
+                    "iconUrl": "https://static.zhihu.com/heifetz/favicon.ico"
+                },
+                {
+                    "name": "JS 一行代码",
+                    "url": "https://1loc.dev/",
+                    "iconUrl": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-39734fbc-b241-4d89-ad87-0befd655e266/d01c693b-1ebb-4209-b13e-4ed5b13b3366.png"
+                },
+                {
+                    "name": "Element",
+                    "url": "https://element.eleme.cn/#/zh-CN",
+                    "iconUrl": "https://element.eleme.cn/favicon.ico"
+                },
+                {
+                    "name": "哔哩哔哩",
+                    "url": "https://www.bilibili.com/",
+                    "iconUrl": "https://www.bilibili.com/favicon.ico?v=1"
+                },
+                {
+                    "name": "CSS 动画",
+                    "url": "https://animista.net/",
+                    "iconUrl": "https://animista.net/favicon.ico"
+                },
+                {
+                    "name": "Vue3",
+                    "url": "https://cn.vuejs.org/",
+                    "iconUrl": "https://cn.vuejs.org/logo.svg"
+                },
+                {
+                    "name": "Echarts",
+                    "url": "https://echarts.apache.org/zh/index.html",
+                    "iconUrl": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-39734fbc-b241-4d89-ad87-0befd655e266/e901f8e8-e500-4fcc-a153-ebfe6dfe77d0.png"
+                },
+                {
+                    "name": "Elements-plus",
+                    "url": "https://element-plus.gitee.io/zh-CN/",
+                    "iconUrl": "https://element-plus.gitee.io/images/element-plus-logo-small.svg"
+                },
+                {
+                    "name": "菜鸟教程",
+                    "url": "https://www.runoob.com/",
+                    "iconUrl": "https://static.runoob.com/images/favicon.ico"
+                },
+                {
+                    "name": "CSS 渐变色",
+                    "url": "https://cssgradient.io/",
+                    "iconUrl": "https://cssgradient.io/images/favicon-23859487.png"
+                },
+                {
+                    "name": "MDN",
+                    "url": "https://developer.mozilla.org/zh-CN",
+                    "iconUrl": "https://developer.mozilla.org/favicon-48x48.cbbd161b.png"
+                },
+                {
+                    "name": "Iconfont",
+                    "url": "https://www.iconfont.cn/",
+                    "iconUrl": "https://img.alicdn.com/imgextra/i2/O1CN01ZyAlrn1MwaMhqz36G_!!6000000001499-73-tps-64-64.ico"
+                },
+                {
+                    "name": "W3school",
+                    "url": "https://www.w3school.com.cn/",
+                    "iconUrl": "https://www.w3school.com.cn/ui2019/logo-16-red.png"
+                }
+            ]
+        },
+        {
+            "title": "社区",
+            "nav": [
+                {
+                    "name": "cnode",
+                    "url": "https://cnodejs.org/",
+                    "iconUrl": "https://static2.cnodejs.org/public/images/cnode_icon_32.png"
+                },
+                {
+                    "name": "Segmentfault",
+                    "url": "https://segmentfault.com/",
+                    "iconUrl": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-39734fbc-b241-4d89-ad87-0befd655e266/4dc55388-e42d-4c25-b87f-b60dea208161.ico"
+                },
+                {
+                    "name": "GitHub",
+                    "url": "http://github.com/",
+                    "iconUrl": "https://github.githubassets.com/favicons/favicon.svg"
+                },
+                {
+                    "name": "Gitee",
+                    "url": "https://gitee.com/",
+                    "iconUrl": "https://gitee.com/assets/favicon_message.ico?1581387642851"
+                },
+                {
+                    "name": "开源中国",
+                    "url": "https://www.oschina.net/",
+                    "iconUrl": "https://static.oschina.net/new-osc/img/favicon.ico"
+                },
+                {
+                    "name": "StackOverflow",
+                    "url": "https://stackoverflow.com/",
+                    "iconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196"
+                },
+                {
+                    "name": "简书",
+                    "url": "https://www.jianshu.com/",
+                    "iconUrl": "https://www.jianshu.com/favicon.ico"
+                },
+                {
+                    "name": "力扣",
+                    "url": "https://leetcode.cn/",
+                    "iconUrl": "https://leetcode.cn/favicon.ico"
+                }
+            ]
+        },
+        {
+            "title": "工具",
+            "nav": [
+                {
+                    "name": "菜鸟工具",
+                    "url": "https://c.runoob.com/front-end/",
+                    "iconUrl": "https://static.runoob.com/images/c-runoob-logo.ico"
+                },
+                {
+                    "name": "正则表达式在线测试",
+                    "url": "https://c.runoob.com/front-end/854/",
+                    "iconUrl": "https://static.runoob.com/images/c-runoob-logo.ico"
+                },
+                {
+                    "name": "图片转 BASE64",
+                    "url": "https://c.runoob.com/front-end/59/",
+                    "iconUrl": "https://static.runoob.com/images/c-runoob-logo.ico"
+                },
+                {
+                    "name": "CodePen",
+                    "url": "https://codepen.io/trending",
+                    "iconUrl": "https://cpwebassets.codepen.io/assets/favicon/favicon-aec34940fbc1a6e787974dcd360f2c6b63348d4b1f4e06c77743096d55480f33.ico"
+                },
+                {
+                    "name": "Json Web Tokens",
+                    "url": "https://jwt.io/",
+                    "iconUrl": "https://jwt.io/img/pic_logo.svg"
+                },
+                {
+                    "name": "CSS Animista",
+                    "url": "https://animista.net/",
+                    "iconUrl": "https://animista.net/images/favicons/apple-touch-icon-60x60.png"
+                },
+                {
+                    "name": "CSS Grid",
+                    "url": "https://cssgrid-generator.netlify.app/",
+                    "iconUrl": "https://cssgrid-generator.netlify.app/favicon.ico"
+                },
+                {
+                    "name": "Sprites Generator-精灵图转换",
+                    "url": "https://www.toptal.com/developers/css/sprite-generator",
+                    "iconUrl": "https://www.toptal.com/developers/css/sprite-generator/static/images/favicon.png"
+                },
+                {
+                    "name": "GoPng-精灵图转换",
+                    "url": "http://alloyteam.github.io/gopng/",
+                    "iconUrl": "https://www.toptal.com/developers/css/sprite-generator/static/images/favicon.png"
+                },
+                {
+                    "name": "CssSprite在线生成器",
+                    "url": "http://sjli.github.io/spritemaker_extjs/example.html",
+                    "iconUrl": "https://www.toptal.com/developers/css/sprite-generator/static/images/favicon.png"
+                }
+            ]
+        },
+        {
+            "title": "Genew-产品",
+            "nav": [
+                {
+                    "name": "平战一体化系统",
+                    "url": "http://newdev.rdapp.com:13008",
+                    "iconUrl": "https://www.genew.com.cn/Images/logo.ico"
+                },
+                {
+                    "name": "低代码组件化系统",
+                    "url": "http://newdev.rdapp.com:10067",
+                    "iconUrl": "https://www.genew.com.cn/Images/logo.ico"
+                },
+                {
+                    "name": "Web调度",
+                    "url": "http://newdev.rdapp.com:9527",
+                    "iconUrl": "https://www.genew.com.cn/Images/logo.ico"
+                },
+                {
+                    "name": "统一配置管理软件",
+                    "url": "http://newdev.rdapp.com:10014",
+                    "iconUrl": "https://www.genew.com.cn/Images/logo.ico"
+                },
+                {
+                    "name": "统一配置管理软件-新版",
+                    "url": "http://newdev.rdapp.com:10015",
+                    "iconUrl": "https://www.genew.com.cn/Images/logo.ico"
+                },
+                {
+                    "name": "能源调度系统",
+                    "url": "http://newdev.rdapp.com:10025",
+                    "iconUrl": "https://www.genew.com.cn/Images/logo.ico"
+                },
+                {
+                    "name": "可视化服务运维软件",
+                    "url": "http://newdev.rdapp.com",
+                    "iconUrl": "https://www.genew.com.cn/Images/logo.ico"
+                }
+            ]
+        },
+        {
+            "title": "Genew-项目",
+            "nav": [
+                {
+                    "name": "平战一体化系统",
+                    "url": "http://newdev.rdapp.com:13008",
+                    "iconUrl": "https://www.genew.com.cn/Images/logo.ico"
+                },
+                {
+                    "name": "低代码组件化系统",
+                    "url": "http://newdev.rdapp.com:10067",
+                    "iconUrl": "https://www.genew.com.cn/Images/logo.ico"
+                },
+                {
+                    "name": "Web调度",
+                    "url": "http://newdev.rdapp.com:9527",
+                    "iconUrl": "https://www.genew.com.cn/Images/logo.ico"
+                },
+                {
+                    "name": "统一配置管理软件",
+                    "url": "http://newdev.rdapp.com:10014",
+                    "iconUrl": "https://www.genew.com.cn/Images/logo.ico"
+                },
+                {
+                    "name": "统一配置管理软件-新版",
+                    "url": "http://newdev.rdapp.com:10015",
+                    "iconUrl": "https://www.genew.com.cn/Images/logo.ico"
+                },
+                {
+                    "name": "能源调度系统",
+                    "url": "http://newdev.rdapp.com:10025",
+                    "iconUrl": "https://www.genew.com.cn/Images/logo.ico"
+                },
+                {
+                    "name": "可视化服务运维软件",
+                    "url": "http://newdev.rdapp.com",
+                    "iconUrl": "https://www.genew.com.cn/Images/logo.ico"
+                }
+            ]
+        }
+    ]
+}
