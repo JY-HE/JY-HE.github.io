@@ -2,6 +2,7 @@
     "models": [
         {
             "title": "热门",
+            "index": 1,
             "nav": [
                 {
                     "name": "掘金",
@@ -72,11 +73,22 @@
                     "name": "W3school",
                     "url": "https://www.w3school.com.cn/",
                     "iconUrl": "https://www.w3school.com.cn/ui2019/logo-16-red.png"
+                },
+                {
+                    "name": "Google翻译",
+                    "url": "https://translate.google.com.hk/?hl=zh-CN&sourceid=cnhp",
+                    "iconUrl": "https://ssl.gstatic.com/translate/favicon.ico"
+                },
+                {
+                    "name": "有道翻译",
+                    "url": "https://fanyi.youdao.com/",
+                    "iconUrl": "https://shared.ydstatic.com/images/favicon.ico"
                 }
             ]
         },
         {
             "title": "社区",
+            "index": 2,
             "nav": [
                 {
                     "name": "cnode",
@@ -91,7 +103,7 @@
                 {
                     "name": "GitHub",
                     "url": "http://github.com/",
-                    "iconUrl": "https://github.githubassets.com/favicons/favicon.svg"
+                    "iconUrl": "https://lf-cdn-tos.bytescm.com/obj/static/xitu_extension/static/github-bordered.f7f36fea.png"
                 },
                 {
                     "name": "Gitee",
@@ -122,6 +134,7 @@
         },
         {
             "title": "工具",
+            "index": 3,
             "nav": [
                 {
                     "name": "菜鸟工具",
@@ -177,6 +190,7 @@
         },
         {
             "title": "Genew-产品",
+            "index": 4,
             "nav": [
                 {
                     "name": "平战一体化系统",
@@ -217,6 +231,7 @@
         },
         {
             "title": "Genew-项目",
+            "index": 5,
             "nav": [
                 {
                     "name": "平战一体化系统",
@@ -252,6 +267,88 @@
                     "name": "可视化服务运维软件",
                     "url": "http://newdev.rdapp.com",
                     "iconUrl": "https://www.genew.com.cn/Images/logo.ico"
+                }
+            ]
+        },
+        {
+            "title": "轻松一刻",
+            "index": 6,
+            "nav": [
+                {
+                    "name": "腾讯视频",
+                    "url": "https://v.qq.com/",
+                    "iconUrl": "https://v.qq.com/favicon.ico"
+                },
+                {
+                    "name": "优酷视频",
+                    "url": "https://youku.com/",
+                    "iconUrl": "https://youku.com/favicon.ico"
+                },
+                {
+                    "name": "爱奇艺",
+                    "url": "https://www.iqiyi.com/",
+                    "iconUrl": "https://www.iqiyi.com/favicon.ico"
+                },
+                {
+                    "name": "芒果TV",
+                    "url": "https://www.mgtv.com/",
+                    "iconUrl": "https://www.mgtv.com/favicon.ico"
+                },
+                {
+                    "name": "茶杯狐",
+                    "url": "https://cupfox.app/",
+                    "iconUrl": "https://p0.meituan.net/dpgroup/7498e6e23e1d3dfaae1a73fe1491d40d31146.png"
+                },
+                {
+                    "name": "VOFLIX",
+                    "url": "https://www.voflix.com/",
+                    "iconUrl": "https://gmu-download.oss-cn-beijing.aliyuncs.com/MTY1OTQ5MDQ1OTA4MiM3MDkjcG5n.png"
+                },
+                {
+                    "name": "抖音",
+                    "url": "https://www.douyin.com/",
+                    "iconUrl": "https://www.douyin.com/favicon.ico"
+                },
+                {
+                    "name": "五楼直播",
+                    "url": "https://www.4ewriting.com/",
+                    "iconUrl": "https://www.4ewriting.com/favicon.ico"
+                },
+                {
+                    "name": "YouTuBe",
+                    "url": "https://www.youtube.com/",
+                    "iconUrl": "https://www.youtube.com/s/desktop/f06ee14b/img/favicon.ico"
+                }
+            ]
+        },
+        {
+            "title": "前端工具库",
+            "index": 7,
+            "nav": [
+                {
+                    "name": "Lodash",
+                    "url": "https://www.lodashjs.com/",
+                    "iconUrl": "https://www.lodashjs.com/img/logo.png"
+                },
+                {
+                    "name": "vue.draggable",
+                    "url": "https://www.itxst.com/vue-draggable/tutorial.html",
+                    "iconUrl": "./vite.svg"
+                },
+                {
+                    "name": "Tailwindcss",
+                    "url": "https://www.tailwindcss.cn/",
+                    "iconUrl": "https://www.tailwindcss.cn/apple-touch-icon.png"
+                },
+                {
+                    "name": "Vercel",
+                    "url": "https://vercel.com",
+                    "iconUrl": "https://assets.vercel.com/image/upload/front/vercel/twitter-card.png"
+                },
+                {
+                    "name": "pinia",
+                    "url": "https://pinia.vuejs.org/",
+                    "iconUrl": "https://pinia.vuejs.org/logo.png"
                 }
             ]
         }
